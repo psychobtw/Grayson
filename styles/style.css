@@ -419,7 +419,7 @@ ul{
 /* Media requests */
 
 @media(max-width:1140px) {
-    .commerce__item,
+    .commerce__items,
     .product__items {
         justify-content: center;
     }
